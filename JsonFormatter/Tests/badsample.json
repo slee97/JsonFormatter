@@ -1,0 +1,33 @@
+[
+	{
+	"Id": "0001",
+	"Type": "donut",
+	"Name": "Cake",
+	"Batter": "Regular"
+
+	},
+	{
+	"Id": "0002",
+	"Type": "donut",
+	"Name": "Old Fashioned",
+	"Topping": "Glazed"
+	},
+	{
+		"Id": "0003",
+		"Type": "bar",
+		"Batter": "Regular",
+		"Topping": "Maple"
+	},
+	{
+		"Id": "0004",
+		"Name": "Cake",
+		"Batter": "Regular",
+		"Topping": "Powdered Sugar"
+	},
+	{
+		"Type": "donut",
+		"Name": "Raised",
+		"Batter": "Regular",
+		"Topping": "Chocolate"
+	}
+]

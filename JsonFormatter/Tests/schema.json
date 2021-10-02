@@ -1,0 +1,21 @@
+{
+	"type": "array",
+	"items": 
+	{
+		"type": "object",
+		"properties": {
+			"Id" : {"type": "string"},
+			"Type" : {"type": "string"},
+			"Name" : {"type": "string"},
+			"Battter": {"type": "string"},
+			"Topping": {"type": "string"}
+		},
+		"required": [
+			"Id",
+			"Type",
+			"Name",
+			"Batter",
+			"Topping"
+		]
+	}
+}

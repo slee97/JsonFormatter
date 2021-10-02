@@ -1,0 +1,37 @@
+[
+	{
+	"Id": "0001",
+	"Type": "donut",
+	"Name": "Cake",
+	"Batter": "Regular",
+	"Topping": "None"
+	},
+	{
+	"Id": "0003",
+	"Type": "donut",
+	"Name": "Old Fashioned",
+	"Batter": "Regular",
+	"Topping": "Glazed"
+	},
+	{
+		"Id": "0004",
+		"Type": "bar",
+		"Name": "Bar",
+		"Batter": "Regular",
+		"Topping": "Maple"
+	},
+	{
+		"Id": "0001",
+		"Type": "donut",
+		"Name": "Cake",
+		"Batter": "Regular",
+		"Topping": "Powdered Sugar"
+	},
+	{
+		"Id": "0002",
+		"Type": "donut",
+		"Name": "Raised",
+		"Batter": "Regular",
+		"Topping": "Chocolate"
+	}
+]
